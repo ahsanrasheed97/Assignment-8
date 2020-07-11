@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    
+    display: inline-block;
+    width: 100px;
+    background-color: blanchedalmond;
+    color: black;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+button{
+    background-color: transparent;
+    border: 4px;
+   
+    
+    color: wheat;
+}
